@@ -20,6 +20,8 @@ The script spawns multiple windows that:
 
 # EVERYTHING IS SUBJECT TO CHANGE
 
+---
+
 ## How to run 🚀
 - Click the **"Releases** tab on the right hand side, it should be green in dark mode at least
 - Download the most **recent** version, unless you want to be weird
