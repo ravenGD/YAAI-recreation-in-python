@@ -17,6 +17,8 @@ The script spawns multiple windows that:
 - **Flashing black/white backgrounds**  
 - **Bouncing text and buttons** inside each window  
 - **Endless multiplication** when you try to close them  
+- **Debug Menu** for those times when you can't cope with what's happening
+- **BOSS MODE** for a nice challenge
 
 # EVERYTHING IS SUBJECT TO CHANGE
 
